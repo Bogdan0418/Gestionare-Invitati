@@ -1,0 +1,2 @@
+#  Descriere aplicatie
+## Am dezvoltat un sistem back-end pentru gestionarea înscrierilor la evenimente, incluzând administrarea participanților, listelor de așteptare și automatizarea proceselor, folosind o arhitectură modulară bazată pe programare orientată pe obiecte.
